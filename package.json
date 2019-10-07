@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "adhere-scroll.js",
+  "files": [
+    "adhere-scroll.js",
+    "README.md",
+    "package.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/ishi720/adhere-scroll/issues"
   },
-  "homepage": "https://github.com/ishi720/adhere-scroll#readme"
+  "homepage": "https://github.com/ishi720/adhere-scroll#readme",
+  "keywords": [
+    "javascript",
+    "adhere-scroll",
+    "fixed"
+  ]
 }
